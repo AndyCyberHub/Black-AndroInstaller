@@ -1,6 +1,6 @@
-<h1 align="center">Andro-OsInstaller<br>
+<h1 align="center">Black-AndroInstaller<br>
 </h1>
-<img src="Andro-OsInstaller.png" alt="Paris" class="center">
+<img src="Black-AndroInstaller.png" alt="Paris" class="center">
 * `📱 💀`<br />
 * `A Andro-OsInstaller for termux `
 
