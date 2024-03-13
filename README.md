@@ -47,21 +47,21 @@ From here <a href="https://f-droid.org/repo/com.termux_118.apk">Link</a>
 
 Script Installation One-Line Command
 ```bash
-apt update && apt upgrade && pkg update && pkg upgrade && rm -rf Andro-OsInstaller && pkg install git && git clone https://github.com/samay825/Andro-OsInstaller && cd Andro-OsInstaller && pkg install python 
+apt update && apt upgrade && pkg update && pkg upgrade && rm -rf Black-androInstaller && pkg install git && git clone https://github.com/AndyCyberHub/Black-androInstaller.git && cd Black-androInstaller && pkg install python 
 ```
 
 #### Disable Phantom Process
 
 Disable Easily with Python
 ```bash
-cd Andro-OsInstaller;python3 Disable_Phantom.py
+cd Black-androInstaller;python3 Disable_Phantom.py
 ```
 
 #### Installation of Kali-NetHunter
 
 Kali-NetHunter Installation
 ```bash
-cd Andro-OsInstaller;python3 main.py
+cd Black-androInstaller;python3 main.py
 ```
 ## Choose the option 1 to install and if you have any errors then use vpn and try again 
 ## After Installation Exit the termux and follow commands written downside
@@ -81,7 +81,7 @@ termux-x11 :1
 ## Go back to Kali-NetHunter session
 type this
 ```bash
-sudo apt update && apt install python3-pip && sudo apt install git && git clone https://github.com/samay825/Andro-OsInstaller && cd Andro-OsInstaller && python3 main.py
+sudo apt update && apt install python3-pip && sudo apt install git && git clone git clone https://github.com/AndyCyberHub/Black-androInstaller.git && cd Black-androInstaller && python3 main.py
 ```
 ## Now type no 6 for GUI Launcher 
 * `choose 1 for Kali-NetHunter GUI `
@@ -90,7 +90,7 @@ sudo apt update && apt install python3-pip && sudo apt install git && git clone 
 
 Daily use command
 ```bash
-cd Andro-OsInstaller;python3 main.py
+cd Black-androInstaller;python3 main.py
 ```
 
 
@@ -104,7 +104,7 @@ cd Andro-OsInstaller;python3 main.py
 
 Open the script by this command 
 ```bash
-cd Andro-OsInstaller;python3 main.py
+cd Black-androInstaller;python3 main.py
 ```
 ## Choose the no 2 for termux Gui Installation
 * `Again Open the tool After Installation and type 6 and choose Termux Gui and copy localhost and paste in vncserver and start`
@@ -119,7 +119,7 @@ cd Andro-OsInstaller;python3 main.py
 
 Open the script by this command 
 ```bash
-cd Andro-OsInstaller;python3 main.py
+cd Black-androInstaller;python3 main.py
 ```
 ## Choose the no 3 for ArchLinux Gui Installation
 * `After Installation Exit the termux and open the script and press6 for launch and then select Arch`
@@ -134,7 +134,7 @@ cd Andro-OsInstaller;python3 main.py
 
 Open the script by this command 
 ```bash
-cd Andro-OsInstaller;python3 main.py
+cd Black-androInstaller;python3 main.py
 ```
 ## Choose the no 4 for Ubuntu Gui Installation
 * `After Installation Exit the termux and open the script and press6 for launch and then select Ubuntu`
@@ -151,7 +151,7 @@ cd Andro-OsInstaller;python3 main.py
 
 Open the script by this command 
 ```bash
-cd Andro-OsInstaller;python3 main.py
+cd Black-androInstaller;python3 main.py
 ```
 ## Choose the no 5 for Debian Gui Installation
 * `After Installation Exit the termux and open the script and press6 for launch and then select Debian`
@@ -164,7 +164,7 @@ cd Andro-OsInstaller;python3 main.py
 
 
 ## Version
-* `Andro-OsInstaller v1.0`
+* `Black-androInstaller v1.0`
 
 ## Features
 * `Install Any os without errors in Android`
@@ -173,22 +173,5 @@ cd Andro-OsInstaller;python3 main.py
 
 * `No Errors All solved in script `
 
-## Credits & Special Thanks
-* `Youtube channel : GSM THE WORK`
-* `Termux-GUI creator : adi1090x`
-
 ## Licence
-Apache 2.0 © Samay825
-
-
-## Contact Us
-* `If you have any feedback or queries`
-* `Instagram: @sincryptzork`
-* `Telegram: @sincryptzork`
-
-## Telegram Channel
-
-* `All updates of Team Sincryption will be posted here !`
-
-<a href="https://t.me/TeamSincryption">
-         <img src="https://smartiblogster.com/wp-content/uploads/2021/03/smartiblogster-iblogster-join-telegram-channel.png">
+Apache 2.0 © Andy OM
