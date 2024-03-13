@@ -2,7 +2,7 @@
 </h1>
 <img src="Black-AndroInstaller.png" alt="Paris" class="center">
 * `📱 💀`<br />
-* `A Andro-OsInstaller for termux `
+* `A Black-AndroInstaller for termux `
 
 ## Disclaimer
 *This tool is for educational purposes only !*
